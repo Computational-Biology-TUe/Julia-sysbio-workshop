@@ -1,3 +1,5 @@
+<img src="figures/TUe.png" width="280" height="70"> <img src="figures/EAISI.png" width="200" height="60"> <img src="figures/BioSB.png" width="100" height="70"> 
+
 # Systems Biology & Julia - Workshop
 
 ![Build Status](https://github.com/Computational-Biology-TUe/Julia-sysbio-workshop/actions/workflows/test.yml/badge.svg?branch=main)
