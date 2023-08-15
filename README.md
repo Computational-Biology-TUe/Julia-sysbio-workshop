@@ -1,4 +1,9 @@
 # Systems Biology & Julia - Workshop
+
+![Issues](https://img.shields.io/github/issues/Computational-Biology-TUe/Julia-sysbio-workshop)
+![Build](https://img.shields.io/github/actions/workflow/status/Computational-Biology-TUe/Julia-sysbio-workshop/.github%2Fworkflows%2Ftest.yml)
+
+
 This is the official repository for the Julia for Systems Biology workshop on September 11th 2023. 
 
 ## Workshop Schedule
