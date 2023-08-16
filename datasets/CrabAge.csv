@@ -1,4 +1,4 @@
-Sex,Length,Diameter,Height,Weight,Shucked Weight,Viscera Weight,Shell Weight,Age
+Sex,Length,Diameter,Height,Weight,ShuckedWeight,VisceraWeight,ShellWeight,Age
 F,1.4375,1.175,0.4125,24.6357155,12.3320325,5.5848515,6.747181,9
 M,0.8875,0.65,0.2125,5.40057975,2.2963095,1.37495075,1.5592225,6
 I,1.0375,0.775,0.25,7.95203475,3.231843,1.60174675,2.76407625,6

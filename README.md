@@ -10,8 +10,8 @@ This is the official repository for the Julia for Systems Biology workshop on Se
 The current workshop schedule is as follows. It may, however, still be subject to changes.
 <div align='center'>
   
-| Time        | Description                  | Contents                                 |
-|-------------|------------------------------|------------------------------------------|
+| Time          | Description                  | Contents                                 |
+|---------------|------------------------------|------------------------------------------|
 | 10:00 - 10:15 | Welcome and Introductions  | -                                        |
 | 10:15 - 11:15 | Getting started with Julia | Julia syntax, types, programming basics  |
 | 11:15 - 11:30 | Coffee break               | -                                        |
@@ -28,7 +28,7 @@ The current workshop schedule is as follows. It may, however, still be subject t
 Here you will find some instructions on how to make sure the code from this repository can run on your computer. The workshop is built to fully work with Julia versions $\geq$ 1.8. In this instruction, we will assume you are installing Julia 1.9, but any other version is installed in a similar way. 
 
 
-Oops... this cat decided to sit on the rest of this Readme... Please hang on while we move it.
+Oops... this cat decided to sit on this part of the Readme... Please hang on while we move it.
 ```
                  meow -    ╱| 、
                           (˚ˎ。7  
@@ -37,3 +37,5 @@ Oops... this cat decided to sit on the rest of this Readme... Please hang on whi
 ```
 
 
+## Notes
+* The file `src/Julia-sysbio-workshop.jl` is included only to make sure automated testing is possible. This is necessary, due to the (current) implementation of this functionality in Julia, supporting only automated testing for packages. Therefore, we cleverly disguised this project as a package to get the full automated testing experience. This file has no functional contents otherwise.
