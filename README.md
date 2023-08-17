@@ -2,7 +2,7 @@
 
 # Systems Biology & Julia - Workshop
 
-![Build Status](https://github.com/Computational-Biology-TUe/Julia-sysbio-workshop/actions/workflows/test.yml/badge.svg?branch=main)
+![Julia Tests](https://github.com/Computational-Biology-TUe/Julia-sysbio-workshop/actions/workflows/test.yml/badge.svg)
 
 This is the official repository for the Julia for Systems Biology workshop on September 11th 2023. 
 
