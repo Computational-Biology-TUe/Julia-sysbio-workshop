@@ -6,6 +6,14 @@
 
 This is the official repository for the Julia for Systems Biology workshop on September 11th 2023. 
 
+## About the Workshop
+The workshop offers an introduction on how the Julia programming language can be used in Systems Biology and provides instructions on how to implement both machine learning and bottom up models in Julia.
+
+## Organizers
+Shauna O'Donovan |  Max de Rooij | Natal van Riel | Balázs Erdős |
+|:---:|:---:|:---:|:---:|
+<img src="figures/O_Donovan_Shauna_BME_PO_VH_1529_UD.jpg.webp" width=90 height=120>  | <img src="figures/de_Rooij_Max_BME_PROM_PO_AS_7631.jpg.webp" width=90 height=120> | <img src="figures/van_Riel_Natal_BMT_PO_VH_4859.jpg.webp" width=90 height=120> | <img src="figures/csm_Balazs_Erdos__002__e75d700908.jpg" width=90 height=120> |
+
 ## Workshop Schedule
 The current workshop schedule is as follows. It may, however, still be subject to changes.
 <div align='center'>
