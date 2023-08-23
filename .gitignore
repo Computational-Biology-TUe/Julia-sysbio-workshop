@@ -28,3 +28,9 @@ Manifest.toml
 
 # Large dataset
 datasets/waste/*
+
+# Data simulator
+src/Epidemic-data-simulation.jl
+
+# Example exercise solutions
+03-Dynamic-Modeling/02-Parameter-Estimation-Max.ipynb
