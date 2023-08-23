@@ -4,7 +4,7 @@
 
 ![Julia Tests](https://github.com/Computational-Biology-TUe/Julia-sysbio-workshop/actions/workflows/test.yml/badge.svg)
 
-This is the official repository for the Julia for Systems Biology workshop on September 11th 2023. 
+This is the repository for the Julia for Systems Biology workshop on September 11th 2023. 
 
 ## About the Workshop
 The workshop offers an introduction on how the Julia programming language can be used in Systems Biology and provides instructions on how to implement both machine learning and bottom up models in Julia.
@@ -33,7 +33,7 @@ The current workshop schedule is as follows. It may, however, still be subject t
 </div>
 
 ## Julia Installation and Environment Setup
-Here you will find some instructions on how to make sure the code from this repository can run on your computer. The workshop is built to fully work with Julia versions $\geq$ 1.8. In this instruction, we will assume you are installing Julia 1.9, but any other version is installed in a similar way. 
+Here you will find some instructions on how to make sure the code from this repository can run on your computer. The workshop is built to fully work with Julia version 1.9. In this instruction, we will assume you are installing Julia 1.9, but any other version is installed in a similar way. 
 
 
 ### Installing Julia using the Julia version manager (juliaup) (recommended)
