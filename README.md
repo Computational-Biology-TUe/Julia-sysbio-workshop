@@ -96,10 +96,12 @@ julia
 ```
 To start the Julia REPL.
 
-Then, press `]` to change from Julia to the package manager, which is indicated by `>julia` changing to `>pkg`. Then, execute (with the dot at the end):
+Then, press `]` to change from Julia to the package manager, which is indicated by `>julia` changing to `>pkg`. Then, execute:
 ```
 activate .
 ```
+>  **Warning**
+> Make sure to remember the dot `.` at the end of this command.
 
 To activate the workshop environment. Then execute (also from the Pkg terminal)
 ```
