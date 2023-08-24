@@ -41,7 +41,8 @@ The first step is to install the Julia version manager (`juliaup`), which enable
 
 **Windows**:
 
-> ⚠️ **Note**: The `winget` command may not be available on your machine! In that case, you can download Julia from the Microsoft Store. If your organization prevents use of the Microsoft Store, you can follow the download instructions from https://julialang.org when clicking `Download`
+>  **Note**
+>  The `winget` command may not be available on your machine! In that case, you can download Julia from the Microsoft Store. If your organization prevents use of the Microsoft Store, you can follow the download instructions from https://julialang.org when clicking `Download`
 
 Open your favorite terminal, or press `Win`+`R`, type `cmd` in the text bar and press 'run'.
 ```
