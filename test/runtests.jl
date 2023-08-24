@@ -14,9 +14,10 @@ end
   @test test_nb("../01-Introduction/02-Working-With-Julia.ipynb")
 end
 
-@testset "02 - Machine Learning: Working with Flux" begin 
-  @test test_nb("../02-Machine-Learning/01-Working-with-Flux.ipynb")
-end
+# test has too high memory requirements
+# @testset "02 - Machine Learning: Working with Flux" begin 
+#   @test test_nb("../02-Machine-Learning/01-Working-with-Flux.ipynb")
+# end
 
 @testset "03 - Dynamic Modeling: ODEs" begin 
   @test test_nb("../03-Dynamic-Modeling/01-ODEs-in-Julia.ipynb")
