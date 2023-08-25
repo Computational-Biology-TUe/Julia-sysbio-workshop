@@ -2,7 +2,7 @@ using Test
 using NBInclude
 
 function test_nb(location)
-  @nbinclude(location)
+  @nbinclude(location; softscope=true)
   true
 end
 
