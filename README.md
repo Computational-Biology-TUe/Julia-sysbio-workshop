@@ -40,12 +40,17 @@ Here you will find some instructions on how to make sure the code from this repo
 The first step is to install the Julia version manager (`juliaup`), which enables you to have multiple Julia versions installed on your machine. This step is not mandatory for a properly working version of Julia, but it is useful if you are planning to use Julia for your own projects in the future.
 
 **Windows**:
+
+>  **Note**
+>  The `winget` command may not be available on your machine! In that case, you can download Julia from the Microsoft Store. If your organization prevents use of the Microsoft Store, you can follow the download instructions from https://julialang.org when clicking `Download`
+
 Open your favorite terminal, or press `Win`+`R`, type `cmd` in the text bar and press 'run'.
 ```
 winget install julia -s msstore
 ```
 
-**Linux & MacOS**
+**Linux & MacOS**:
+
 From the command line execute
 ```
 curl -fsSL https://install.julialang.org | sh
@@ -69,12 +74,16 @@ juliaup add release
 
 If this is your only Julia version, juliaup will automatically label this as the default version. 
 
+---
+
 ### Setting up VSCode
 Julia was found to work the best using the VSCode IDE, which you can download [here](https://code.visualstudio.com/download). After downloading and installing VSCode, navigate to the VSCode marketplace, which has the following icon:
 
 <img width="54" alt="VSCode Marketplace" src="https://github.com/Computational-Biology-TUe/Julia-sysbio-workshop/assets/54850292/4f1ce454-ce4e-47c4-8a92-bfc636e48140">
 
 Type `Julia` in the search bar and install the Julia extension. 
+
+---
 
 ### Setting up the workshop environment
 After installing Julia, you can either fork this repository to your own Github account and download the code from there, or download the code directly from this repository into a Zip-file by selecting `Code` -> `Download ZIP`. 
@@ -87,10 +96,12 @@ julia
 ```
 To start the Julia REPL.
 
-Then, press `]` to change from Julia to the package manager, which is indicated by `>julia` changing to `>pkg`. Then, execute (with the dot at the end):
+Then, press `]` to change from Julia to the package manager, which is indicated by `>julia` changing to `>pkg`. Then, execute:
 ```
 activate .
 ```
+>  **Warning**
+> Make sure to remember the dot `.` at the end of this command.
 
 To activate the workshop environment. Then execute (also from the Pkg terminal)
 ```
@@ -98,6 +109,8 @@ instantiate
 ```
 
 To install all the required packages. You should now be able to run all the notebooks in this workshop environment.
+
+---
 
 ### Troubleshooting
 
