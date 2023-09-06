@@ -114,6 +114,9 @@ To install all the required packages. You should now be able to run all the note
 
 ### Troubleshooting
 
+#### Error opening notebooks in Windows VS Code
+In Windows, we noticed that notebooks may sometimes error when trying to open them in Visual Studio Code. This has to do with the path length limit in the Windows filesystem. The easiest fix is to place the repository folder in a directory that is higher up, so the paths will not be too long. 
+
 Oops... this cat decided to sit on this part of the Readme... Please hang on while we move it.
 ```
                  meow -    ╱| 、
