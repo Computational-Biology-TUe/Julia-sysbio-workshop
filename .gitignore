@@ -37,3 +37,6 @@ src/Epidemic-data-simulation.jl
 
 # MLJ Scikit-Learn interface
 .CondaPkg*
+
+# VS Code configuration
+.vscode
