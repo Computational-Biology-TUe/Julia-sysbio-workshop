@@ -90,6 +90,13 @@ After installing Julia, you can either fork this repository to your own Github a
 
 Put the workshop code in a nice folder and open this folder from VSCode.
 
+Now there are two ways to initialize the environment. 
+
+#### 1. Use the first code block in the 01-Getting-Started file
+Uncomment the first code block in the `01-Getting-Started.ipynb` file to automatically set up the environment.
+
+#### 2. Use the VSCode terminal
+
 In case a terminal is not open yet, click `Terminal`->`New Terminal` from the top bar and execute
 ```
 julia
