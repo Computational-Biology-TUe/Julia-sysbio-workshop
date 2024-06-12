@@ -81,7 +81,7 @@ Julia was found to work the best using the VSCode IDE, which you can download [h
 
 <img width="54" alt="VSCode Marketplace" src="https://github.com/Computational-Biology-TUe/Julia-sysbio-workshop/assets/54850292/4f1ce454-ce4e-47c4-8a92-bfc636e48140">
 
-Type `Julia` in the search bar and install the Julia extension. 
+Type `Julia` in the search bar and install the Julia Language Support extension. 
 
 ---
 
